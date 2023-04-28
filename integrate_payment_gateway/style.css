@@ -1,0 +1,23 @@
+#heading{
+    /* font-size: 7vw; */
+    font-size: 70px;
+}
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    background-color: bisque;
+    font-style: inherit;
+    height: 50vw;
+}
+
+button{
+    font-size: x-large;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
